@@ -6,7 +6,7 @@
 >> ```
 
 > ### Step 2 (Using the function):
->> When you're done [Step 1](https://github.com/danielhamen/25730-Worldwide-Cities/new/main/Python#step-1-importing), you can now use the "GetRandomCity()" function. To use the function, write the following code in your main Python file:
+>> When you're done [Step 1](https://github.com/danielhamen/25519-Worldwide-Cities/blob/main/Python/Usage.md#step-1-importing), you can now use the "GetRandomCity()" function. To use the function, write the following code in your main Python file:
 >> ```python
 >> Cities = GetRandomCity(1)
 >> ```
