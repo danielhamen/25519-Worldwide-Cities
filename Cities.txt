@@ -4856,7 +4856,6 @@ New Britain
 Fada N’Gourma
 Konin
 Shakargarh
-Q16508147
 San José de las Lajas
 Al Bahah
 Shibukawa
@@ -4886,7 +4885,6 @@ Ede
 Sipalay
 Dazaifu
 Landshut
-Q59061593
 Oroquieta
 Abancay
 Penafiel
@@ -4934,7 +4932,6 @@ Ostend
 Las Piedras
 Placetas
 Musashimurayama
-Q12997851
 Pawtucket
 Gibara
 Bocholt
@@ -5113,7 +5110,6 @@ Axum
 Milpitas
 Palo Alto
 Redondo Beach
-Q16339753
 Santa Clorito
 Hihya
 Hīt
@@ -5365,7 +5361,6 @@ Tsushima
 Itoman
 Haverhill
 Meriden
-Q4116151
 Los Polvorines
 Friedrichshafen
 Tamba
@@ -5767,7 +5762,6 @@ Carson City
 Tarma
 Pulheim
 Hendersonville
-Q11102384
 Hacienda Heights
 Palamaner
 Schweinfurt
@@ -5802,7 +5796,6 @@ Jaggayyapeta
 Edina
 La Lima
 Marco de Canaveses
-Q15696732
 Smyrna
 Hanyū
 Tuni
@@ -6056,7 +6049,6 @@ DeSoto
 Cerritos
 Muhanga
 Hikari
-Q12993258
 Hastings
 Valladolid
 Cedar Park
@@ -6110,7 +6102,6 @@ Bornheim
 Karlovy Vary
 Mandeville
 Suwa
-Q4116151
 Beypazarı
 Ishigaki
 Mishawaka
@@ -6130,7 +6121,6 @@ Ena
 Iwakura
 Děčín
 Middelburg
-Q16339211
 Birendranagar
 Rancho Santa Margarita
 Skierniewice
@@ -6345,7 +6335,6 @@ Hastings
 Pinamar
 Tank
 Jeffersonville
-Q5668631
 Yatağan
 Hastings
 Afula
@@ -6364,7 +6353,6 @@ Pittsfield
 Tateyama
 Dhavaleswaram
 Palakkad Municipality
-Q12997848
 Herning
 Palm Springs
 Seferihisar
@@ -6516,7 +6504,6 @@ Lompoc
 Burlington
 Haltom City
 Lacey
-Q11106761
 Balykchy
 Eisenach
 Akaiwa
@@ -6666,7 +6653,6 @@ Katō
 Geel
 Tamba-Sasayama
 Arys
-Q12991547
 Coachella
 Lemgo
 Paschim Punropara
@@ -7049,7 +7035,6 @@ Panama City
 Bossangoa
 Keizer
 Erding
-Q59064340
 Matale
 Lechería
 Goldsboro
@@ -7181,7 +7166,6 @@ Hot Springs
 St. Cloud
 Xonobod
 Chelsea
-Q15972991
 Ingelheim am Rhein
 Manhattan Beach
 Vernier
@@ -7239,7 +7223,6 @@ Candon
 Spanish Fork
 Columbia
 Tienen
-Q59062427
 Pleasant Grove
 Abashiri
 Datteln
@@ -7477,7 +7460,6 @@ Gahanna
 Jülich
 Ōkawa
 Altstetten
-Q16316120
 Lauderdale Lakes
 Kaarina
 Campbell River
@@ -7506,7 +7488,6 @@ Eastpointe
 Vechta
 Al-Ula
 Naumburg (Saale)
-Q58925702
 Lebanon
 Fairborn
 Englewood
@@ -7533,7 +7514,6 @@ Nagato
 Wildomar
 Homa Bay
 Forchheim
-Q12201321
 Randolph
 Massillon
 Sechura
@@ -7549,7 +7529,6 @@ Dhahran
 Copperas Cove
 Chachapoyas
 Menlo Park
-Q59074716
 Socorro
 Deer Park
 Yaguarón
@@ -7765,7 +7744,6 @@ Wheat Ridge
 Tsugaru
 Yverdon-les-Bains
 Augustów
-Q12992593
 Clearfield
 Bella Vista
 Ennepetal
@@ -7973,7 +7951,6 @@ Katima Mulilo
 Rösrath
 Old Harbour
 Oyabe
-Q58871127
 Kavadarci
 Saito
 Farmers Branch
@@ -8134,7 +8111,6 @@ Hattersheim am Main
 Gojō
 Post Falls
 Andenne
-Q16316026
 Jauja
 Marshalltown
 Zaltbommel
@@ -8153,7 +8129,6 @@ Maryland Heights
 Eibar
 Maryville
 Daphne
-Q59074766
 Arar
 Wetter
 Griesheim
@@ -8166,7 +8141,6 @@ Ciudad Tecún Umán
 Chillán Viejo
 Panauti
 El-Tod
-Q18465837
 Gorlice
 Rahway
 Crown Point
@@ -8240,7 +8214,6 @@ Campbell
 Rēzekne
 Kanaipur
 Khan Abad
-Q16315268
 Windsor
 Tuvvur Grama Panchayat
 Schloß Holte-Stukenbrock
@@ -8391,7 +8364,6 @@ Kunisaki
 Vsetín
 Los Altos
 Twentynine Palms
-Q12224236
 Oregon City
 Koper
 Coffs Harbour
@@ -8431,7 +8403,6 @@ Collinsville
 Duttapukur
 Greenville
 Abay
-Q16340742
 Wasco
 Frankfort
 Greer
@@ -8554,7 +8525,6 @@ Schmallenberg
 Delitzsch
 Nemuro
 Warstein
-Q58873102
 Lockport
 Corfu
 Colón
@@ -8759,8 +8729,6 @@ South Salt Lake
 Calw
 Peekskill
 Korbach
-Q11038078
-Q12992675
 San Ignacio de Velasco
 Bauta
 El Cerrito
@@ -8877,7 +8845,6 @@ Canton
 Mount Pearl
 Chanhassen
 Scherpenheuvel-Zichem
-Q12996210
 Sokolov
 Kilkis
 Fernley
@@ -8918,7 +8885,6 @@ Arroyito, Córdoba
 Laguna Beach
 Summit
 Muscatine
-Q16343033
 Bulle
 Yukon
 Mercer Island
@@ -8993,7 +8959,6 @@ Hudson
 West Linn
 Pooler
 Stadthagen
-Q13008033
 Murayama
 Sharuna
 Dasnapur
@@ -9019,7 +8984,6 @@ Radevormwald
 Ferndale
 La Cruz
 Marysville
-Q12207477
 San Juan de Aznalfarache
 Darien
 McDonough
@@ -9124,7 +9088,6 @@ Chapala
 Kant
 Podara
 Dudelange
-Q31852421
 Vicksburg
 Flörsheim am Main
 Selouane
@@ -9254,7 +9217,6 @@ Waghäusel
 Piedra Blanca
 Niles
 Renens
-Q13009576
 Bahía de Caráquez
 Helena
 Winschoten
@@ -9443,7 +9405,6 @@ Hatvan
 Ashland
 Oberkirch
 Torgau
-Q58926751
 Lake Forest
 Guastatoya
 Dillingen/Saar
@@ -9480,7 +9441,6 @@ Ulcinj
 Bichena
 Mountlake Terrace
 Eagle
-Q12992190
 Ferndale
 Sainshand
 Vevey
@@ -9595,7 +9555,6 @@ Central Falls
 Hechingen
 Prichard
 DeBary
-Q16342710
 Tashkömür
 Arvin
 Macomb
@@ -9648,7 +9607,6 @@ Tukwila
 Alice
 Bella Unión
 Bad Aibling
-Q59098288
 Chodzież
 San Vito dei Normanni
 Berea
@@ -9773,7 +9731,6 @@ Kolbermoor
 Owasso
 Barentu, Eritrea
 Uetersen
-Q12998133
 Lynn Haven
 Kralupy nad Vltavou
 Saco
@@ -10125,7 +10082,6 @@ Goodlettsville
 Braniewo
 Mount Vernon
 Shafter
-Q13012169
 Valencia
 South Houston
 Lodwar
@@ -10422,7 +10378,6 @@ Goodlettsville
 Comarapa
 Crawfordsville
 Schlüchtern
-Q13003655
 Bruntál
 Calbuco
 Albemarle
@@ -10463,7 +10418,6 @@ Herisau
 Winschoten
 Anacortes
 Macedo de Cavaleiros
-Q12218941
 La Vista
 Roanoke Rapids
 Dolores
@@ -10503,7 +10457,6 @@ Serpa
 Blytheville
 Markranstädt
 Bara Mohansingh
-Q13001042
 Füssen
 Breisach
 Stuart
@@ -10515,7 +10468,6 @@ Najasa
 Scottsboro
 Kompally
 Juma
-Q12192403
 Mercedes
 La Palma
 Szarvas
@@ -10584,7 +10536,6 @@ Harhoura
 Suwanee
 Genappe
 Cibolo
-Q16343979
 Alta
 Jelcz-Laskowice
 Goygol
@@ -10598,7 +10549,6 @@ Fairhope
 Boppard
 Yelamanchili
 Loviisa
-Q12189776
 Ham Lake
 Hofgeismar
 Głuchołazy
@@ -10876,7 +10826,6 @@ Estremoz
 Peumo
 Rokycany
 Mizil
-Q16341846
 Lebedyn
 Jever
 Hamont-Achel
@@ -10911,7 +10860,6 @@ Mittweida
 Uslar
 Harper Woods
 Qusar
-Q59779787
 New Franklin
 Sweetwater
 Lake Wales
@@ -11011,7 +10959,6 @@ La Entrada
 Abensberg
 Darłowo
 College Park
-Q16341199
 Conyers
 Powder Springs
 Mór
@@ -11042,7 +10989,6 @@ Człuchów
 Dahyan
 Otopeni
 Ovidiu
-Q13005002
 Perry
 Rio Grande City
 Kiskőrös
@@ -11160,7 +11106,6 @@ Wixom
 Irondale
 Sulanggari
 Kistarcsa
-Q15702909
 Connersville
 Asperg
 Priozersk
@@ -11173,7 +11118,6 @@ Athens
 Jagannathpur
 Erbach
 South Charleston
-Q59068537
 Weißenhorn
 Löningen
 Fostoria
@@ -11193,7 +11137,6 @@ Bedford
 Richterswil
 Blytheville
 Saraland
-Q12209712
 Oldsmar
 North Mankato
 Drøbak
@@ -11239,7 +11182,6 @@ Muragachha
 Lebedyn
 Pegnitz
 Duraykish
-Q12187301
 Ulvila
 Monroe
 Tauberbischofsheim
@@ -11258,11 +11200,9 @@ Pewaukee
 Qabala
 East Wenatchee
 Basantapur
-Q59070600
 Jemari (J. K. Nagar Township)
 Moody
 Trzebnica
-Q12996038
 Avenal
 Powell River
 Sendenhorst
@@ -11412,7 +11352,6 @@ Fulton
 Český Krumlov
 Gyomaendrőd
 Santa Ana del Yacuma
-Q16339673
 Pichilemu
 Ashibetsu
 Sauk Rapids
@@ -11426,7 +11365,6 @@ Wickliffe
 Sylacauga
 Niceville
 Suzu
-Q59074689
 Rokiškis
 Újfehértó
 El-Tor
@@ -11434,7 +11372,6 @@ Auburn
 Nababpur
 Fulton
 Robstown
-Q16341402
 Hudson
 San Francisco de Mostazal
 Payson
@@ -11457,7 +11394,6 @@ Boone
 Herk-de-Stad
 Bishnupur
 Steinheim
-Q58925888
 Atlantic Beach
 Wetaskiwin
 Kuçovë
@@ -11482,7 +11418,6 @@ Linnich
 Fehmarn
 Huron
 Brindabanpur
-Q4116151
 Milki
 Sylacauga
 Lake Station
@@ -11506,7 +11441,6 @@ Lüderitz
 Chatta Baria
 Mount Dora
 Albertirsa
-Q16315743
 Cayce
 Mahd adh Dhahab
 Blaubeuren
@@ -11570,7 +11504,6 @@ Bad Windsheim
 Negotino
 Baliadanga
 Las Parejas
-Q15703224
 Mount Dora
 Fort Atkinson
 Waukee
@@ -11585,7 +11518,6 @@ Taraclia
 Forest Hill
 Vabkent
 Moldova Nouă
-Q12991535
 Irondale
 Cobh
 Marion
@@ -11608,7 +11540,6 @@ Leeds
 Jaroměř
 Bulgan
 Northlake
-Q15705398
 Sânnicolau Mare
 Rosbach vor der Höhe
 Destin
@@ -11884,7 +11815,6 @@ Dallas
 Muroto
 Mexico
 Ladenburg
-Q15704831
 Wolmirstedt
 Telipara Tea Garden
 Weinfelden
@@ -11894,7 +11824,6 @@ Săcueni
 Cholpon-Ata
 Cambridge
 Walldürn
-Q13003207
 Washington
 Holešov
 Videle
@@ -11944,7 +11873,6 @@ Kavadarci
 Parangarpar
 Urbana
 Yazoo City
-Q13007128
 Yuscarán
 Rheinau
 Ionia
@@ -11977,7 +11905,6 @@ Finike
 South Lyon
 Half Moon Bay
 Virton
-Q58925789
 Okmulgee
 Ochsenfurt
 Fort Morgan
@@ -11994,7 +11921,6 @@ Tsqaltubo
 Uničov
 Călan
 Glenn Heights
-Q12990826
 Werther
 Kriva Palanka
 Cusseta
@@ -12069,7 +11995,6 @@ Ankurhati
 Brugg
 Ironton
 Ogdensburg
-Q16340057
 Miastko
 Chak Kanthalia
 Murska Sobota
@@ -12155,7 +12080,6 @@ Oskaloosa
 Woodinville
 Bni Drar
 Chandpur
-Q16317139
 Sierra Madre
 Rutesheim
 Salfit
@@ -12260,7 +12184,6 @@ Borgloon
 East Grand Rapids
 Isselburg
 Van Wert
-Q12192260
 Indianola
 Lincolnton
 Donzdorf
@@ -12296,7 +12219,6 @@ Paimio
 Verona
 Riverton
 Camden
-Q13007386
 Mänttä-Vilppula
 Big Rapids
 Dakshin Santoshpur
@@ -12357,7 +12279,6 @@ Sebring
 Mandeville
 Begampur
 Alpena
-Q13007314
 Ambhua
 Târgu Frumos
 Huittinen
@@ -12601,7 +12522,6 @@ Debipur
 Woodbury
 Marysville
 Girard
-Q58658337
 Dhatrigram
 Nideggen
 Payerne
@@ -12725,8 +12645,6 @@ Cottage Grove
 Bohechío
 Hațeg
 Sedona
-Q15693196
-Q15704482
 Jagtial
 Sankt Vith
 Steinbach-Hallenberg
@@ -12746,7 +12664,6 @@ Karimpur
 Titu
 Gudensberg
 Brownfield
-Q58926718
 Lawrenceburg
 Winslow
 Jeannette
@@ -12815,7 +12732,6 @@ West Point
 Presque Isle
 Fairfield
 Lwówek Śląski
-Q12207016
 Smithfield
 Pedro Luro
 Howell
@@ -12837,7 +12753,6 @@ Bleckede
 Brand-Erbisdorf
 Sumner
 Brigantine
-Q31486069
 Lügde
 Harvard
 Vilkaviškis
@@ -12890,7 +12805,6 @@ St. Pete Beach
 Huedin
 Modra
 Kalaikunda
-Q58932600
 Anaconda
 Taft
 Stuttgart
@@ -12938,7 +12852,6 @@ Prineville
 Corte Madera
 Clarksville
 Commerce
-Q13004588
 Obernkirchen
 Ahmedpur
 Nayabahadurpur
@@ -12954,7 +12867,6 @@ Nagykálló
 Heiligenhafen
 Ventnor City
 Edelény
-Q13004828
 Arlesheim
 Oakwood
 Reedsburg
@@ -13019,7 +12931,6 @@ Vernal
 Orange Cove
 Neuhaus am Rennweg
 Charlotte
-Q16315576
 Bennettsville
 Washington Terrace
 Ewo
@@ -13094,7 +13005,6 @@ The Village
 Florø
 Sweet Home
 Fairview
-Q12190071
 Delta
 Kalyanpur
 Plön
@@ -13167,7 +13077,6 @@ Alamosa
 Pecos
 Nazirpur
 Garden City
-Q13006815
 Basai
 Bradford
 Clanton
@@ -13213,7 +13122,6 @@ Iernut
 Berching
 Clinton
 Rauenberg
-Q31496348
 Salfit
 Mücheln
 Vallendar
@@ -13234,7 +13142,6 @@ Pryor Creek
 Barth
 Poali
 Großräschen
-Q12209556
 Florence
 Princeton
 Lenoir City
@@ -13451,7 +13358,6 @@ Oberlin
 Fort Stockton
 Mamurras
 Collegedale
-Q59064018
 Grand Blanc
 Darappur
 Westlake Village
@@ -13480,7 +13386,6 @@ Grand Blanc
 Campbell
 Antigo
 Hillsdale
-Q12204956
 St. Anthony
 Indian Harbour Beach
 Perryville
@@ -13505,7 +13410,6 @@ Guntersville
 Broussard
 Ramchandrapur
 Kirn
-Q22928906
 Ketchikan
 Nagdaha
 Caribou
@@ -13520,7 +13424,6 @@ Hillview
 Hafania
 Conover
 Senatobia
-Q12233153
 Digha
 Iron Mountain
 Rheinsberg
@@ -13532,7 +13435,6 @@ Krishna Chandrapur
 Ville Platte
 Kellinghusen
 Willebadessen
-Q16346954
 Dunavarsány
 Breaux Bridge
 Hokksund
@@ -13550,7 +13452,6 @@ Bad Bergzabern
 São Filipe
 Bishnupur
 Bandipur
-Q16342721
 Pleasant Hill
 Zell am Harmersbach
 Bloomfield
@@ -13602,7 +13503,6 @@ Târgu Cărbunești
 Wörrstadt
 Gurjaani
 Bönnigheim
-Q12190793
 Nimpith
 Lugau
 Masat
@@ -13709,7 +13609,6 @@ Majdia
 Reedsburg
 Schweich
 Cushing
-Q12194637
 Flowood
 Gopalpur
 Winschoten
@@ -13718,7 +13617,6 @@ Sutherlin
 Arra
 Victoria
 Lamar
-Q13007342
 Kirchheimbolanden
 Richland Hills
 Box Elder
@@ -13794,7 +13692,6 @@ Minamiizu
 Trail
 Houghton
 Calipatria
-Q15702390
 Grosuplje
 Šlapanice
 Perry
@@ -13841,7 +13738,6 @@ Connellsville
 Arcadia
 Pockau-Lengefeld
 Câmpeni
-Q13008355
 Iron Mountain
 Yardımlı
 Egara
@@ -13888,7 +13784,6 @@ Clarkston
 Richfield
 Kavadarci
 Groitzsch
-Q107527228
 Firebaugh
 Barunda
 Monona
@@ -13984,10 +13879,7 @@ Khatra
 Nangan
 Aiquile
 Khajutti
-Q58932299
 Sebastopol
-Q12209727
-Q12246625
 Fort Lupton
 Mansôa
 Shamokin
@@ -14137,7 +14029,6 @@ Meldorf
 Tentulkuli
 Rameswarpur
 Woodland Park
-Q12194422
 Naujoji Akmenė
 Bara Bamonia
 Dačice
@@ -14238,7 +14129,6 @@ Naxos (city)
 Bhagabatipur
 Immenhausen
 Český Brod
-Q15701009
 Plaquemine
 Sausalito
 Létavértes
@@ -14321,7 +14211,6 @@ Greenville
 Monahans
 Paschim Panchla
 Crockett
-Q12190515
 Russellville
 Pâncota
 Simhat
@@ -14426,7 +14315,6 @@ Polch
 Baboua
 Moragudi
 Sibnagar
-Q13006690
 Hernando
 Ramanathpur
 Rudrapur
@@ -14466,7 +14354,6 @@ Bel Aire
 Morrilton
 Parkano
 Danga
-Q107527228
 Eatonton
 Kennedale
 Salem
@@ -14510,7 +14397,6 @@ Deora
 Dietenheim
 Waite Park
 Hudson
-Q15705228
 Milford
 Wildwood
 Robertsdale
@@ -14563,7 +14449,6 @@ Dobruška
 Ar Rawdah
 Nappanee
 Ibrány
-Q15705147
 Winschoten
 Hughson
 Halyan
@@ -14585,7 +14470,6 @@ Leesville
 Silsbee
 Baska
 Pocahontas
-Q16318322
 Pacific
 Sequim
 Corry
@@ -14681,7 +14565,6 @@ Jagijhora Barabak
 Madison
 Panuhat
 Friedland
-Q26772477
 Ishpeming
 Sanibel
 White Oak
@@ -14740,7 +14623,6 @@ Jackson
 Laage
 Lanchkhuti
 Bad Rodach
-Q13010992
 Dakhin Rampur
 Podbořany
 Kölleda
@@ -14754,7 +14636,6 @@ Littlefield
 Falkenberg/Elster
 Rosice
 Trochtelfingen
-Q58661145
 Grafenwöhr
 Lynchburg
 Pasvalys
@@ -14797,7 +14678,6 @@ Clyde
 Mszczonów
 Montevallo
 Gammertingen
-Q13005574
 Salem
 Kokapur
 Dillon
@@ -14814,7 +14694,6 @@ Jabrayil
 Neuffen
 Piatra-Olt
 Târgu Bujor
-Q59067824
 Rossford
 Darlington
 Pegau
@@ -14823,13 +14702,11 @@ Tarrant
 Hurricane
 Raipur
 Thannhausen
-Q13009131
 Asuti
 Chak Bhrigu
 Lago Vista
 Bamunari
 Lincoln
-Q20423389
 Altenkirchen
 Zalaszentgrót
 Horezu
@@ -14846,7 +14723,6 @@ Radoviš
 Boonville
 Fegyvernek
 Neumarkt-Sankt Veit
-Q13010505
 Huntington Woods
 Balkány
 Queanbeyan
@@ -14856,7 +14732,6 @@ Ardud
 Usthi
 Kavadarci
 Palikir
-Q13010308
 Bremen
 Dąbrowa Białostocka
 Manistee
@@ -14908,7 +14783,6 @@ Huntington Woods
 Tanvald
 Mórahalom
 Schirgiswalde-Kirschau
-Q15701129
 Rötha
 Maquoketa
 Puerto Baquerizo Moreno
@@ -14926,7 +14800,6 @@ Encs
 Solt
 Glücksburg
 Tarrant
-Q12998424
 Beardstown
 Farr West
 Slaton
@@ -14963,7 +14836,6 @@ Mirzapur
 Donalia
 Bilkanda
 Petoskey
-Q12214318
 Viqueque
 Marble Falls
 Roanoke
@@ -15046,7 +14918,6 @@ Cherry Hills Village
 Burnet
 Fair Oaks Ranch
 Bad Königshofen im Grabfeld
-Q20417588
 Hatgachha
 Pepper Pike
 Sebiș
@@ -15214,7 +15085,6 @@ Sweetwater
 Priyanagar
 Gulf Breeze
 Haiterbach
-Q12997811
 Herrnhut
 Cherryville
 Subarnapur
@@ -15332,7 +15202,6 @@ Titusville
 Babek
 Wilmington
 Leesville
-Q15700407
 Rockdale
 Belle Fourche
 Raynagar
@@ -15489,7 +15358,6 @@ Weldon Spring
 Kratovo
 Orange Beach
 Harindanga
-Q12187714
 Rockdale
 Keyser
 Prüm
@@ -15694,7 +15562,6 @@ Iowa Falls
 Abbeville
 Salida
 Tiszalök
-Q13005685
 Jackson
 Flagler Beach
 Zimmerman
@@ -15738,7 +15605,6 @@ Flin Flon
 Richland Center
 St. Clairsville
 Lake Alfred
-Q12996428
 Dakshin Baguan
 Jaykrishnapur
 Ponchatoula
@@ -15747,7 +15613,6 @@ Manvel
 Manchester
 DeFuniak Springs
 Smiths Station
-Q13005109
 Childersburg
 Chiny
 Vacha
@@ -15820,7 +15685,6 @@ Saltore
 Marseilles
 Monheim
 Berovo
-Q12190542
 Salipur
 Toronto
 Childersburg
@@ -15830,7 +15694,6 @@ Erbendorf
 Skuodas
 Luhačovice
 Carthage
-Q15689936
 Abrud
 Chaiten
 Cap Malheureux
@@ -15896,7 +15759,6 @@ Milișăuți
 Homer
 Oadipur
 Newton Falls
-Q16315212
 Wauchula
 Mansfield
 Sekong
@@ -15991,7 +15853,6 @@ Freinsheim
 Chak Baria
 Byron
 Trendelburg
-Q12999041
 Granite Shoals
 Winnsboro
 Gilmer
@@ -16042,7 +15903,6 @@ Winfield
 Omak
 Needles
 Maricha
-Q12195788
 Baneswar
 Mahal
 Spirit Lake
@@ -16060,7 +15920,6 @@ Kingfisher
 Fonyód
 Buellton
 Bischofsheim an der Rhön
-Q12209190
 Todtnau
 Crossett
 Nagymaros
@@ -16097,7 +15956,6 @@ Cherokee Village
 Ironcollo
 Kemecse
 Diboll
-Q12209764
 Kalipur
 Lübtheen
 Tallassee
@@ -16131,7 +15989,6 @@ Seat Pleasant
 Wilthen
 Karia
 Heringen
-Q20601279
 Ogallala
 Iłża
 Nephi
@@ -16270,7 +16127,6 @@ Hawkinsville
 Kamranga
 Buffalo
 Raciąż
-Q12209474
 Tengen
 Philomath
 Lake Worth
@@ -16303,7 +16159,6 @@ New Boston
 Votice
 Jasper
 Madison
-Q16345111
 San Ignacio
 Brookfield
 Dawson
@@ -16311,7 +16166,6 @@ Phoenix
 Nashville
 Becker
 Klundert
-Q47045330
 Summerville
 Lamar
 Crestwood
@@ -16332,7 +16186,6 @@ Mineola
 Oconto
 Augustusburg
 Nassau
-Q13006724
 Elek
 Perry
 Tepezalá
@@ -16494,7 +16347,6 @@ Osage Beach
 Devine
 Point Pleasant
 Mitchell
-Q12193707
 Pressath
 Hometown
 Benton
@@ -16585,7 +16437,6 @@ Prescott
 Ely
 Unalaska
 Burlington
-Q12242323
 Waldkappel
 Sullivan
 Marine City
@@ -16603,7 +16454,6 @@ Berka/Werra
 Manchester
 Caro
 Temple
-Q12234596
 Northwoods
 Sergeant Bluff
 Scottsville
@@ -16674,7 +16524,6 @@ Black Diamond
 Forest City
 Pleasant View
 Biharkeresztes
-Q12186298
 Colorado City
 Güsten
 Highwood
@@ -16782,7 +16631,6 @@ Waldenburg
 Vienna
 Hephzibah
 Hazlehurst
-Q16344105
 Medina
 Nassau Bay
 Sullivan City
@@ -17005,7 +16853,6 @@ Two Harbors
 Lafayette
 Lyons
 Kiel
-Q12213476
 West Liberty
 Kratovo
 Boyne City
@@ -17039,7 +16886,6 @@ Nome
 Newton
 Red Bud
 Salfit
-Q12227171
 Šempeter pri Gorici
 Wayzata
 Morgan
@@ -17119,7 +16965,6 @@ Abingdon
 Providence
 Johnson
 Stanley
-Q12186928
 Cape May
 Mühlheim an der Donau
 Bamberg
@@ -17473,7 +17318,6 @@ Neusalza-Spremberg
 Hohnstein
 Havelsee
 Csepreg
-Q12234940
 Benson
 Greensboro
 New Holstein
@@ -17554,7 +17398,6 @@ Gentry
 Red Bay
 Tipton
 Lychen
-Q16344143
 Bärnau
 Klundert
 Rietavas
@@ -17625,7 +17468,6 @@ Hamilton
 Waldenburg
 Bad Teinach-Zavelstein
 Tetri Tsqaro
-Q12209711
 Onawa
 Skopelos
 Heyburn
@@ -17648,7 +17490,6 @@ Cottleville
 Rogersville
 Klundert
 Sherrill
-Q12193261
 Aasiaat
 Marktleuthen
 Nevada City
@@ -17676,7 +17517,6 @@ Lodi
 Prichsenstadt
 Oak Ridge North
 Ontario
-Q20620795
 Taft
 Yerington
 Eibelstadt
@@ -17700,7 +17540,6 @@ Wilder
 Tishomingo
 Nocona
 Lindow (Mark)
-Q12207042
 Hamilton
 Iron River
 Iuka
@@ -17721,7 +17560,6 @@ Dacono
 Algona
 Pickens
 Al Hinakiyah
-Q12215069
 Mangum
 Flemingsburg
 Dömitz
@@ -17783,13 +17621,11 @@ Kewaunee
 Hardeeville
 Hamilton
 Fairfield
-Q12185451
 Milaca
 Brighton
 McLeansboro
 Münchenbernsdorf
 Osage City
-Q12220631
 Rhens
 Jarmen
 Balcones Heights
@@ -17797,8 +17633,6 @@ Hatzfeld
 Hayti
 Kingwood
 Maisí
-Q12187525
-Q12189530
 Hanover
 Eutaw
 Riverside
@@ -17856,7 +17690,6 @@ Delphi
 Bowling Green
 Ferrysburg
 Oconto Falls
-Q12189023
 Anamosa
 New Hope
 Dermott
@@ -17876,7 +17709,6 @@ Mountain View
 Tama
 Mountain View
 Rugby
-Q12195127
 Hodgenville
 Niceto Pérez
 Aliyu Amba
@@ -17912,7 +17744,6 @@ Madison
 Chandler
 Lindsay
 Wilton
-Q12192588
 Missouri Valley
 Christopher
 Schillingsfürst
@@ -18030,7 +17861,6 @@ Sankt Goar
 Stigler
 Lakeland
 Bridgeport
-Q3473501
 Crisfield
 Hildale
 Rūjiena
@@ -18039,7 +17869,6 @@ Mountain View
 Bad Bibra
 Seward
 Aledo
-Q12191415
 Trenton
 Irvine
 Bloomingdale
@@ -18058,7 +17887,6 @@ Urubamba
 Brinkley
 Nyírlugos
 Cohasset
-Q24004465
 Trinity
 Vassar
 Estacada
@@ -18088,7 +17916,6 @@ Castroville
 Ketchum
 Sandusky
 Wisconsin Dells
-Q12188030
 Winschoten
 Owensville
 Bunnell
@@ -18112,7 +17939,6 @@ Castroville
 Jöhstadt
 Tusculum
 Dmanisi
-Q12234980
 Rhinelander
 Klundert
 Flemingsburg
@@ -18205,7 +18031,6 @@ Fairview
 Salacgrīva
 Friedrichstadt
 Beverly
-Q12186493
 Balatonkenese
 Lake Village
 Junction
@@ -18214,7 +18039,6 @@ Rock Rapids
 Hartford
 Sabetha
 Conrad
-Q12192449
 Calvert City
 Bessemer
 Marked Tree
@@ -18245,7 +18069,6 @@ Szob
 Bonners Ferry
 Madrid
 Golßen
-Q20413554
 Kriva Palanka
 Munising
 Friesack
@@ -18590,7 +18413,6 @@ Quitman
 West Branch
 Spencer
 Inman
-Q12209705
 Altamont
 Plattsburg
 Shepherd
@@ -18646,7 +18468,6 @@ Wellington
 Nagymányok
 Star City
 Mart
-Q12193589
 East Bernard
 Rockport
 Eudora
@@ -18656,7 +18477,6 @@ San Buenaventura, La Paz
 Bridgeport
 Good Hope
 Anchorage
-Q12238566
 Petersburg
 Monroe
 Dalworthington Gardens
@@ -18884,9 +18704,7 @@ José Enrique Rodó
 Beverly Hills
 Ord
 Lennox
-Q12192860
 Migues
-Q12209345
 Fairfield Bay
 San Augustine
 Harrison
@@ -18979,7 +18797,6 @@ Bay
 San Rafael de Velasco
 Krebs
 New Ellenton
-Q12219186
 Richwood
 Waldport
 Northwood
@@ -19128,8 +18945,6 @@ Panorama Village
 Leavenworth
 Holyoke
 Chelsea
-Q12209579
-Q12189449
 Gräfenthal
 Elk Point
 Colfax
@@ -19173,7 +18988,6 @@ Samson
 Lewiston
 Colquitt
 Lake Lotawana
-Q12238873
 Lacon
 Warrenton
 Creola
@@ -19243,7 +19057,6 @@ Sturgis
 Gold Beach
 New London
 Lake Butler
-Q96999201
 Enterprise
 Rainier
 Dagda
@@ -19472,7 +19285,6 @@ Priest River
 McEwen
 Mayer
 Usedom
-Q3486116
 Harlan
 John Day
 Watford City
@@ -19676,7 +19488,6 @@ Purchena
 Neoga
 Salem
 Corning
-Q12209238
 Odranci
 Bourbon
 Minco
@@ -19926,7 +19737,6 @@ Kleszczele
 Richland
 Audubon Park
 Harper
-Q12209309
 Ash Grove
 Menard
 Dhi Bin
@@ -19949,7 +19759,6 @@ Gearhart
 Crane
 West Tawakoni
 Montezuma
-Q12234512
 Shoshone
 Loyall
 Perryville
@@ -20071,7 +19880,6 @@ Wendover
 Moody
 Canyon
 Kroppenstedt
-Q20382484
 Clio
 Winthrop
 Mithymna
@@ -20223,7 +20031,6 @@ Roscoe
 Beggs
 Zilupe
 Tsageri
-Q12209560
 Glenns Ferry
 Diaz
 Barry
@@ -20350,7 +20157,6 @@ Laurens
 Central City
 La Coste
 Manchester
-Q12189422
 Blue Lake
 Fairview
 Wallis
@@ -20427,7 +20233,6 @@ Pleasanton
 Viļaka
 Jewell Junction
 Princeton
-Q12193560
 Scottville
 Mahnomen
 Victoria
@@ -20543,7 +20348,6 @@ Lyons
 China
 Rosiclare
 Őriszentpéter
-Q12190227
 Mound City
 Marmaduke
 Tye
@@ -20855,7 +20659,6 @@ Marsing
 Orchard Grass Hills
 Allison
 Loup City
-Q12191447
 Nieuwpoort
 Talty
 Bloomfield
@@ -21121,7 +20924,6 @@ Oakland
 Waynoka
 Whitewood
 Eldon
-Q12209477
 Armstrong
 London
 Joaquin
@@ -21216,7 +21018,6 @@ LaMoure
 Calico Rock
 Sterling City
 Bellefonte
-Q12209635
 Ivanhoe
 Subačius
 Cotter
@@ -21288,7 +21089,6 @@ St. Clair
 Sharur
 Ashland
 Jetmore
-Q12209578
 Richfield
 Larchwood
 Elaine
@@ -21300,7 +21100,6 @@ Benton
 Benton City
 Mortons Gap
 Clarkfield
-Q12209582
 Bowman
 Montevideo
 Carlton
@@ -21544,7 +21343,6 @@ Rock Island
 Raymond
 Alden
 Adams
-Q107527228
 Dixon
 Riceville
 Mustang Ridge
@@ -21602,7 +21400,6 @@ Olympian Village
 Doerun
 Smithville
 Edgemont
-Q12209250
 Dunseith
 Gainesville
 Spearville
@@ -21734,7 +21531,6 @@ Cresson
 Tribune
 Magazine
 Belgrade
-Q12209384
 Strawn
 Driscoll
 Westbrook
@@ -21844,7 +21640,6 @@ Sycamore
 Metolius
 Scranton
 Guy
-Q12209603
 Norborne
 Holdingford
 Horseshoe Bend
@@ -21890,7 +21685,6 @@ St. Francisville
 Morley
 Big Wells
 Stockton
-Q12209423
 Altheimer
 Wheaton
 Seneca Gardens
@@ -21959,7 +21753,6 @@ Stanwood
 Waterville
 Gallaway
 Ainaži
-Q12209342
 Birch Tree
 Hebron
 Bradford
@@ -22250,7 +22043,6 @@ Carey
 Burke
 Young Harris
 Minto
-Q12209192
 Newell
 Everly
 Holly Grove
@@ -22652,7 +22444,6 @@ Danube
 Albion
 Lime Springs
 Durbe
-Q20415747
 Forman
 Whittemore
 Gilmore City
@@ -24070,7 +23861,6 @@ Walcott
 Lyctus
 Calera
 Easton
-Q56293133
 Cromwell
 Delmont
 Callaway
@@ -24936,7 +24726,6 @@ Linwood
 East Peru
 Forest River
 Miesville
-Q20404696
 Toronto
 De Witt
 Acequia
